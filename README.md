@@ -1,4 +1,4 @@
-![torbo-web-logo](https://github.com/vadym4che/turbo-web/turboweb.com.us.png)
+![turbo-web-logo](https://github.com/vadym4che/turbo-web/blob/main/turboweb.com.ua.png)
 
 # [Тестове завдання для PHP розробників](https://docs.google.com/document/d/1_JbDLOsV7JkQFNz4xVPz1Gjfic2-dE4AgcWkvim4JMo/edit)
 
@@ -20,7 +20,7 @@
 
 Бажаємо успіху! Якщо у вас виникнуть питання, будь ласка, зв'яжіться з нами через Telegram: [NadiiaBidunHR](https://t.me/NadiiaBidunHR).
 
-![solution](https://github.com/vadym4che/turbo-web/solution.jpg)
+![solution](https://github.com/vadym4che/turbo-web/blob/main/solution.jpg)
 
 ## Питання і Відповіді
 
