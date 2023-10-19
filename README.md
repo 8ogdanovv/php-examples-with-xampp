@@ -38,4 +38,4 @@ Width 1920px:
 
 Width 568px:
 
-![width: 568px](https://github.com/vadym4che/turbo-web/blob/main/w568.png)
+<img src="https://github.com/vadym4che/turbo-web/blob/main/w568.png" style="height: 50vmin; width: auto;">
