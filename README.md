@@ -36,8 +36,13 @@ Width 1920px:
 
 ![width: 1920px](https://github.com/vadym4che/turbo-web/blob/main/w1920.png)
 
-Width 568px:
-<div style="display: flex; height: 50vmin; width: 100%; justify-content: space-between; ">
-  <img src="https://github.com/vadym4che/turbo-web/blob/main/w882.png" style="height: 50vmin; width: auto;">
-  <img src="https://github.com/vadym4che/turbo-web/blob/main/w568.png" style="height: 50vmin; width: auto;">
+<div style="display: flex; height: 50vmin; width: 100%; align-items: center; justify-content: space-between; ">
+  <div>
+    Width 882px:
+    <img src="https://github.com/vadym4che/turbo-web/blob/main/w882.png" style="height: 50vmin; width: auto;">
+  </div>
+  <div> 
+    Width 568px:
+    <img src="https://github.com/vadym4che/turbo-web/blob/main/w568.png" style="height: 50vmin; width: auto;">
+  </div>
 </div>
