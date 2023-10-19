@@ -33,7 +33,9 @@ This guide will help you seamlessly integrate the `main.php` file into your exis
 # Here layout responsive examples:
 
 Width 1920px:
+
 ![width: 1920px](https://github.com/vadym4che/turbo-web/blob/main/w1920.png)
 
 Width 568px:
+
 ![width: 568px](https://github.com/vadym4che/turbo-web/blob/main/w568.png)
