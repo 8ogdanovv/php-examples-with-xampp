@@ -24,12 +24,13 @@
       border-radius: 0.5rem;
       padding: 1rem;
       display: flex;
-      /* background: linear-gradient(135deg, blue, green, yellow); */
+      align-items: center;
     }
 
     .card_image {
-      max-width: 100%;
-      height: auto;
+      width: 50vmin;
+      height: 50vmin;
+      aspect-ratio: 1/1 !important;
       border-radius: 0.5rem;
       background: var(--gradient);
     }
