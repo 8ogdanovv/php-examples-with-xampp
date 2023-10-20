@@ -10,7 +10,7 @@
 
   <?php
     // Include the main.php file from GitHub
-    $main_url = 'https://raw.githubusercontent.com/vadym4che/php-examples-with-xampp/main/main.php';
+    $main_url = 'https://raw.githubusercontent.com/vadym4che/php-examples-with-xampp/main/Main.php';
     $main_content = file_get_contents($main_url);
     eval('?>' . $main_content);
   ?>
